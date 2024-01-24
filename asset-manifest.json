@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Movify/static/css/main.1dca7586.css",
+    "main.js": "/Movify/static/js/main.cebe9c3d.js",
+    "index.html": "/Movify/index.html",
+    "static/media/search.svg": "/Movify/static/media/search.981b582ea232c3cb047eca919deaf9e8.svg",
+    "main.1dca7586.css.map": "/Movify/static/css/main.1dca7586.css.map",
+    "main.cebe9c3d.js.map": "/Movify/static/js/main.cebe9c3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1dca7586.css",
+    "static/js/main.cebe9c3d.js"
+  ]
+}
